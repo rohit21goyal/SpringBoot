@@ -1,0 +1,19 @@
+package com.policy.training.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.policy.training.model.Policy;
+
+@Service
+public class PolicyService {
+
+	@Autowired
+	CustomerService customerService;
+
+	public Policy createPolicy(Policy policy) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

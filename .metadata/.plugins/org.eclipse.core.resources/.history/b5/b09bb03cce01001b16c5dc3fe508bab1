@@ -1,0 +1,2 @@
+spring.application.name=customer-service_rohit21goyal
+server.port=8081

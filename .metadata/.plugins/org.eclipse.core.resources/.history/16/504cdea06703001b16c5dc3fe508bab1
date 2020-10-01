@@ -1,0 +1,5 @@
+package com.policy.training.model;
+
+public class Customer {
+
+}

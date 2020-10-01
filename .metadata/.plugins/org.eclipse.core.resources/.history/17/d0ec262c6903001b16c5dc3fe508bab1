@@ -1,0 +1,12 @@
+package com.policy.training.service;
+
+import com.policy.training.model.Customer;
+
+public class CustomerService {
+
+	public Customer getCustomerDetails(String customerId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.customer.ms.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.customer.ms.repository.CustomerRepository;
+
+@Service
+public class CustomerServiceImpl{
+
+	@Autowired
+	private CustomerRepository customerRepository;
+	
+	public List<CustomerM> findAll(){
+		return customerRepository.findAll();
+	}
+	
+	
+}

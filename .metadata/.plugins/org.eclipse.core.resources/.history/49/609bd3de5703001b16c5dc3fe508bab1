@@ -1,0 +1,9 @@
+package com.customer.ms.model;
+
+public class CustomerM {
+
+	public CustomerM() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

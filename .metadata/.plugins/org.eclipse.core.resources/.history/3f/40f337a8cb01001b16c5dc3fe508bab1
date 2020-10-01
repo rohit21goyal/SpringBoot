@@ -1,0 +1,8 @@
+package com.customer.ms.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CustomerController {
+
+}

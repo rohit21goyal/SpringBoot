@@ -1,0 +1,5 @@
+package com.policy.training.repository;
+
+public class PolicyRepository {
+
+}
